@@ -65,13 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I am a product manager who enjoys exploring new product building ideas. I'm motivated by a
+        deep-seated passion for improving the user experience. I advocate for the seamless
+        integration of technology, design, and business to craft products that truly connect with
+        users.
       </p>
     </>
   );
