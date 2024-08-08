@@ -1,10 +1,10 @@
 ---
-date: '2023-10-01'
+date: '2024-13-05'
 title: 'Product Manager Intern'
-company: 'Sarvh'
-location: 'Remote'
-range: 'Oct 2023 - Dec 2023'
-url: 'https://sarvh.com/'
+company: 'Jio'
+location: 'Onsite'
+range: 'May 2024 - Jul 2024'
+url: 'https://www.jio.com/platforms/'
 ---
 
 - Performed various market analyses and market capitalization possible and identified opportunities for initial growth.
